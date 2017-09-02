@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A6D8A4D4-9E12-0A20-3E93-2EB713CAB02A}") = "Hoopa", "Assembly-CSharp.csproj", "{069A4CC8-DF05-9049-B853-87B1981020EE}"
+EndProject
+Project("{A6D8A4D4-9E12-0A20-3E93-2EB713CAB02A}") = "Hoopa", "Assembly-CSharp-Editor.csproj", "{1A99F135-2194-800A-3EAD-EA5C084AB27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069A4CC8-DF05-9049-B853-87B1981020EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069A4CC8-DF05-9049-B853-87B1981020EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069A4CC8-DF05-9049-B853-87B1981020EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069A4CC8-DF05-9049-B853-87B1981020EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A99F135-2194-800A-3EAD-EA5C084AB27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A99F135-2194-800A-3EAD-EA5C084AB27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A99F135-2194-800A-3EAD-EA5C084AB27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A99F135-2194-800A-3EAD-EA5C084AB27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
