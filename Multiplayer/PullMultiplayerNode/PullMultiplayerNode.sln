@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PullMultiplayerNode", "Assembly-CSharp.csproj", "{FD929EE0-5C5E-3386-C059-1444DC7F99D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PullMultiplayerNode", "Assembly-CSharp-Editor.csproj", "{A0448516-67E9-0FCF-1EED-FAA614668EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD929EE0-5C5E-3386-C059-1444DC7F99D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD929EE0-5C5E-3386-C059-1444DC7F99D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD929EE0-5C5E-3386-C059-1444DC7F99D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD929EE0-5C5E-3386-C059-1444DC7F99D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0448516-67E9-0FCF-1EED-FAA614668EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0448516-67E9-0FCF-1EED-FAA614668EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0448516-67E9-0FCF-1EED-FAA614668EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0448516-67E9-0FCF-1EED-FAA614668EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

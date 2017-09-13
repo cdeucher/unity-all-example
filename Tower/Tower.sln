@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{8F8B35B2-B5F5-0B48-9F1E-528F89BDD6E4}") = "Tower", "Assembly-CSharp.csproj", "{4D9C92C7-9122-6925-4EAF-4BE212FFBB35}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower", "Assembly-CSharp.csproj", "{4D9C92C7-9122-6925-4EAF-4BE212FFBB35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{2B0FE7D5-CCEF-8614-9B21-3CB7F7BD0C9F}") = "RomanInvasion", "Assembly-CSharp.csproj", "{5C371BE8-7F57-B452-F03A-AA20E98A0FFD}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanInvasion", "Assembly-CSharp.csproj", "{5C371BE8-7F57-B452-F03A-AA20E98A0FFD}"
 EndProject
-Project("{2B0FE7D5-CCEF-8614-9B21-3CB7F7BD0C9F}") = "RomanInvasion", "Assembly-CSharp-Editor.csproj", "{B3DD0E20-C39F-F96F-430A-981F8739E82C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanInvasion", "Assembly-CSharp-Editor.csproj", "{B3DD0E20-C39F-F96F-430A-981F8739E82C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

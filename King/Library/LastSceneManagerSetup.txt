@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tower_Defense_Pack/Scenes/Phone_Example_Scene4.unity
+  isLoaded: 1
+  isActive: 1

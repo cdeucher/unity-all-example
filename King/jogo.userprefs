@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Tower_Defense_Pack\Scripts\Construction_Point\Interface\Onclick_CP.cs">
+    <Files>
+      <File FileName="Assets\Tower_Defense_Pack\Scripts\Construction_Point\CP_Controller.cs" Line="36" Column="26" />
+      <File FileName="Assets\Tower_Defense_Pack\Scripts\Construction_Point\Interface\Onclick_CP.cs" Line="21" Column="53" />
+      <File FileName="Assets\Tower_Defense_Pack\Scripts\Enemies\Enemies_Controller.cs" Line="158" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
