@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{A6D8A4D4-9E12-0A20-3E93-2EB713CAB02A}") = "Hoopa", "Assembly-CSharp.csproj", "{069A4CC8-DF05-9049-B853-87B1981020EE}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoopa", "Assembly-CSharp.csproj", "{069A4CC8-DF05-9049-B853-87B1981020EE}"
 EndProject
-Project("{A6D8A4D4-9E12-0A20-3E93-2EB713CAB02A}") = "Hoopa", "Assembly-CSharp-Editor.csproj", "{1A99F135-2194-800A-3EAD-EA5C084AB27F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoopa", "Assembly-CSharp-Editor.csproj", "{1A99F135-2194-800A-3EAD-EA5C084AB27F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,11 @@
+importar no projeto
+criar um script na "Main Camera"
+
+	public GameObject crossfade;
+
+	void Start () {
+		Instantiate (crossfade);
+	}
+	
+
+arrastar o objeto crossfade para a "Main Camera"
